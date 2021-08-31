@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "login_firebase",
+    "slug": "login_firebase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "login_firebase"
+}
